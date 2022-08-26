@@ -9,10 +9,6 @@ Bigbasket is India's largest online grocery retailer. They began operations in 2
 2. What is the selling price and the actual market price of each product category listed?
 3. Is there any difference between the sale price and market price of each product category?
 4. If, yes What is the price difference of each product and sub-product category? 
-
-
-# 🎉 Help Me Improve
-Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.
   
-# 📫 Feedback
+# Feedback
 If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/gokularumugam-theanalyst/)
